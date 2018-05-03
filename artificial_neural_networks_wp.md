@@ -48,8 +48,36 @@ discovered two key issues:
 
 ### Backpropagation
 
+A key trigger for renewed interest in neural networks was Paul Werbos's backpropagation algorithm
+(1975) which effectively solved the exclusive-or problem. Backpropagation distributed the error 
+term back up through the layers, by modifying the weights at each node.
 
+In the mid-1980s, parallel distributed processing became popular under the name connectionism. 
+Rumelhart and McClelland (1986) described the use of connectionism to simulate neural processes.
 
+Support vector machines and other, much simpler methods such as linear classifiers gradually 
+overtook neural networks in machine learning popularity.
+
+In 2012, Andrew Ng and Jeff Dean created a network that learned to recognize higher-level concepts, 
+such as cats, only from watching unlabeled images taken from YouTube videos.
+
+### Contests
+
+Between 2009 and 2012, recurrent neural networks and deep feedforward neural networks developed in 
+Schmidhuber's research group won eight international competitions in pattern recognition and machine 
+learning.
+
+### Convolutional networks
+
+As of 2011, the state of the art in deep learning feedforward networks alternated convolutional 
+layers and max-pooling layers. Such supervised deep learning methods were the first to achieve 
+human-competitive performance on certain tasks.
+
+## Models
+
+An artificial neural network is a network of simple elements called neurons, which receive input,
+change their internal state (activation) according to that input, and produce output depending on
+the input and activation.
 
 
 Concepts
@@ -57,3 +85,22 @@ neuroplasticity
 Turing B-type machine
 Frank Rosenblatt's perceptron
 Group Method of Data Handling
+backpropagation
+parallel distributed processing
+
+
+People
+Warren McCulloch
+Walter Pitts
+D. O. Hebb
+Frank Rosenblatt
+Alexey Ivakhnenko
+Minksy 
+Papert
+Paul Werbos
+Jürgen Schmidhuber
+Andrew Ng
+Jeff Dean
+
+
+
