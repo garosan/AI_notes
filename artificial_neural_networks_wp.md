@@ -79,6 +79,12 @@ An artificial neural network is a network of simple elements called neurons, whi
 change their internal state (activation) according to that input, and produce output depending on
 the input and activation.
 
+**Components of an artificial neural network**
+
+**Neurons**
+
+
+
 
 Concepts
 neuroplasticity
