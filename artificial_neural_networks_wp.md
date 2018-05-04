@@ -82,7 +82,31 @@ the input and activation.
 **Components of an artificial neural network**
 
 **Neurons**
+Generally consist of the following components:
+- An activation
+- Possibly a threshold
+- An activation function
+- An output function
 
+**Connections and weights**
+
+**Propagation function**
+
+**Learning rule**
+The learning rule is a rule or an algorithm which modifies the parameters of the neural network, in 
+order for a given input to the network to produce a favored output. This learning process typically 
+amounts to modifying the weights and thresholds of the variables within the network.
+
+## Learning Paradigms
+
+The three major learning paradigms each correspond to a particular learning task. These are 
+supervised learning, unsupervised learning and reinforcement learning.
+
+### Supervised Learning
+
+### Unsupervised Learning
+
+### Reinforcement Learning
 
 
 
