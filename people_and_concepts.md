@@ -19,7 +19,11 @@ training artificial neural networks through backpropagation of errors. He also w
 recurrent neural networks. http://www.werbos.com/
 
 Arthur Samuel (1901 - 1990) - american pioneer in computer gaming and AI. Coined the term 'machine
-learning'. 
+learning'.
+
+Marvin Minksy
+
+Seymour Papert
 
 
 ## Concepts
@@ -34,3 +38,4 @@ recurrent neural network
 
 https://aitopics.org/misc/brief-history
 https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai/
+http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
